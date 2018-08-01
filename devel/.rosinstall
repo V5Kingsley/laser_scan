@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sun/hexapod_ws/src/laser_scan/devel/setup.sh

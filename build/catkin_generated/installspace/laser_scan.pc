@@ -1,0 +1,8 @@
+prefix=/home/sun/hexapod_ws/src/laser_scan/install
+
+Name: laser_scan
+Description: Description of laser_scan
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sun/hexapod_ws/src/laser_scan/install/lib 
+Requires: 
